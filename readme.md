@@ -2,7 +2,7 @@
 
 This repository contains the implementation and analysis of Bitcoin transaction scripting using both Legacy (P2PKH) and SegWit (P2SH-P2WPKH) address formats.
 ## Team Name
-#Team_btc
+**Team_btc**
 ## Team Members
 
 | Name | Roll No. |
