@@ -44,8 +44,8 @@ Add the following configuration settings:
 
 ```
 regtest=1
-rpcuser=Team_btc
-rpcpassword=Team_btc
+rpcuser=username
+rpcpassword=password
 paytxfee=0.0001
 fallbackfee=0.0002
 mintxfee=0.00001
@@ -187,6 +187,9 @@ ssh guest@10.206.4.201
 
 # Debugging a script
 btcdeb -v '{ResponseScript}{ChallengeScript}'
+# for Steps
+step
+# One step operation gives one step
 ```
 
 ## Troubleshooting
