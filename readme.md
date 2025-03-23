@@ -185,7 +185,7 @@ ssh guest@10.206.4.201
 # Password: root1234
 
 # Debugging a script
-btcdeb -v 'ResponseScript+ChallengeScript'
+btcdeb -v '{ResponseScript}{ChallengeScript}'
 ```
 
 ## Troubleshooting
